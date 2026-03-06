@@ -2,3 +2,4 @@ streamlit
 pandas
 newspaper3k
 scikit-learn
+lxml_html_clean
